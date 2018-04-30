@@ -1,0 +1,11 @@
+$(document).ready(function(){
+  $('form').animate({
+    top:'0'
+  },1500)
+  $('form').animate({
+    width:'50%'
+  },1000)
+  $('form').animate({
+    height:'350px'
+  },1500)
+});
